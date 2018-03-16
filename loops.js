@@ -1,7 +1,6 @@
 function forLoop(){
-  var temp;
+  var ;
 for(i=0;i<25;i++){
-  
   
 }
 }
