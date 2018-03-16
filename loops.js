@@ -8,7 +8,7 @@ return array;
 }
 
 function whileLoop(n){
-  while(){
-    
+  while(n>0){
+    console.log(--n);
   }
 }
